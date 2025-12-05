@@ -1,6 +1,5 @@
 # git config --global user.name "tydevilish"
 # git config --global user.email "meawpain12@gmail.com"
-
 stages:
   - test
   - build
